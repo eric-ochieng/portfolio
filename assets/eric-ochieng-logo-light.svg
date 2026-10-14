@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 90" role="img" aria-labelledby="title">
+  <title id="title">Eric Ochieng</title>
+  <g fill="none" stroke="#ed1c24" stroke-width="8">
+    <circle cx="70" cy="45" r="20"/>
+    <path d="M18 33h32M18 45h29M18 57h32"/>
+  </g>
+  <path fill="#2e3192" d="M97 16h3v58h-3z"/>
+  <text x="109" y="62" fill="#2e3192" font-family="Arial Narrow, Arial, sans-serif" font-size="42" font-weight="700">ERIC</text>
+  <text x="198" y="62" fill="#ed1c24" font-family="Arial Narrow, Arial, sans-serif" font-size="42" font-weight="700">OCHIENG</text>
+</svg>

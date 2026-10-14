@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "name": "Eric Ochieng",
+    "title": "Product Designer at Microsoft",
+    "location": "Nairobi, Kenya",
+    "headline": "Making complex experiences feel clear and human.",
+    "intro": "I’m Eric Ochieng, a product designer at Microsoft based in Nairobi. I design experiences that help people find context, understand connections, and get things done.",
+    "bio": "I’m drawn to complex products, the systems behind human relationships, and AI experiences that are genuinely useful because they respect people’s context and judgment.",
+    "email": "email@example.com",
+    "linkedin": "https://www.linkedin.com/",
+    "resume": "#"
+  },
+  "history": [
+    {
+      "period": "Current · [Add start date]",
+      "title": "People in Copilot Gen UX",
+      "description": "Designing people-centered generative AI experiences in Microsoft Copilot. [Add verified scope, responsibilities, and outcome]"
+    },
+    {
+      "period": "[Add dates]",
+      "title": "Microsoft 365 and Copilot",
+      "description": "Designing experiences that help people find context, understand information, and move through complex workflows. [Add role scope and verified outcome]"
+    },
+    {
+      "period": "[Add dates]",
+      "title": "People and organization understanding",
+      "description": "Exploring how teams, roles, and working relationships can become easier to navigate. [Add product name, contribution, and status]"
+    },
+    {
+      "period": "[Add dates]",
+      "title": "Conversation recaps and meeting preparation",
+      "description": "Shaping ways for people to catch up, prepare, and focus on what matters before and after collaboration moments. [Add product name and verified learning]"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "people-in-copilot-gen-ux",
+      "title": "People in Copilot Gen UX",
+      "kicker": "Current project",
+      "headline": "Making people context useful in generative AI experiences.",
+      "summary": "Exploring how Copilot can help people understand colleagues, working relationships, and relevant context while preserving trust and user control.",
+      "problem": "People need useful context about who they work with without losing nuance, privacy, or confidence in where AI-generated information comes from.",
+      "context": "Microsoft Copilot / People Gen UX",
+      "role": "Product Designer [add verified ownership scope]",
+      "team": "[Add disciplines, collaborators, and partner teams]",
+      "timeframe": "Current · [Add start date and project status]",
+      "outcome": "[Add verified current outcome or learning]",
+      "evidence": "[Add approved research, customer signals, product evidence, and the insight that most influenced the direction.]",
+      "decisions": "Make people context relevant to the task at hand.\nDesign uncertainty and source transparency into the experience.\nPreserve user control over what is used and how they proceed.",
+      "contribution": "[Describe what you personally framed, designed, influenced, and carried through implementation. Separate team contributions.]",
+      "result": "[Add verified progress, current limitations, and what you are learning. Do not imply launch unless approved.]"
+    },
+    {
+      "slug": "organization-understanding",
+      "title": "Org in Copilot",
+      "kicker": "Case study 02",
+      "headline": "Helping people see how work and people connect.",
+      "summary": "Helping people use Copilot to understand management chains, direct reports, roles, and organizational context.",
+      "problem": "People need useful organizational context without piecing it together across disconnected sources.",
+      "context": "Microsoft Copilot / organization experiences",
+      "role": "Design DRI (Directly Responsible Individual)",
+      "team": "[Add disciplines and partners]",
+      "timeframe": "[Add dates and project status]",
+      "outcome": "[Add verified outcome or learning]",
+      "evidence": "[Add approved research methods, behavioral signals, customer feedback, and key findings.]",
+      "decisions": "Organize around questions, not the org chart.\nReveal complexity progressively.\nBe explicit about data boundaries.",
+      "contribution": "[Describe what you personally framed, designed, facilitated, or drove through implementation. Separate team contributions.]",
+      "result": "[Add verified result, limitations, and what you learned.]"
+    },
+    {
+      "slug": "conversation-recap",
+      "title": "People & conversation recap",
+      "kicker": "Case study 03",
+      "headline": "Helping people catch up without losing the human context.",
+      "summary": "Helping people catch up on conversations and build useful context while keeping AI-generated information understandable and controllable.",
+      "problem": "People returning to a conversation need to understand what changed, why it matters, and where to act.",
+      "context": "Microsoft 365 / Copilot [verify product]",
+      "role": "Design DRI, EMEA",
+      "team": "[Add disciplines and partners]",
+      "timeframe": "[Add dates and project status]",
+      "outcome": "[Add verified outcome or learning]",
+      "evidence": "[Add approved research findings or product evidence, including what people trusted and checked.]",
+      "decisions": "Lead with relevance and preserve traceability.\nSeparate facts from interpretation.\nDesign the recovery path with the ideal path.",
+      "contribution": "[State what you personally framed, designed, tested, and influenced. Separate team decisions.]",
+      "result": "[Add verified result, limitations, and what changed in your AI design approach.]"
+    },
+    {
+      "slug": "accessibility-leadership",
+      "title": "Accessibility leadership",
+      "kicker": "Case study 03",
+      "headline": "Leading accessibility from specification through delivery.",
+      "summary": "Leading accessibility across dozens of projects, from detailed specifications to reflow and high-contrast validation.",
+      "problem": "Complex people experiences need to remain understandable and operable across assistive technologies, zoom and reflow, contrast modes, keyboard input, and different content states.",
+      "context": "Accessibility leadership across product experiences",
+      "role": "Accessibility design lead",
+      "team": "Design, engineering, product, and accessibility partners",
+      "timeframe": "Ongoing leadership across dozens of projects",
+      "outcome": "Accessibility requirements translated into actionable specifications, implementation guidance, and validation.",
+      "evidence": "Annotated accessibility specifications and validation at 200% reflow and in high-contrast mode.",
+      "decisions": "Specify behavior, not only appearance.\nValidate reflow at 200%.\nDesign for high-contrast modes.\nMake accessibility part of delivery.",
+      "contribution": "Led accessibility planning, specification, design review, and validation across dozens of product projects.",
+      "result": "Helped teams make accessibility an explicit part of product behavior and delivery rather than a final audit."
+    },
+    {
+      "slug": "org-sensemaking",
+      "title": "Org sensemaking",
+      "kicker": "Case study 04",
+      "headline": "Understanding how work really gets done.",
+      "summary": "Helping people understand project teams, collaboration patterns, and the relationships that shape the work.",
+      "problem": "Formal reporting structure does not explain who contributes, how collaborators connect, or which working groups shape delivery.",
+      "context": "PeopleIQ / AI-assisted organization sensemaking",
+      "role": "Product designer",
+      "team": "Design, product, engineering, and applied AI",
+      "timeframe": "Concept exploration",
+      "outcome": "An end-to-end concept connecting conversational intent, a shared workspace, organization context, and collaboration dynamics.",
+      "evidence": "Product concept screenshots showing the on-ramp, co-creation flow, organization context, and collaboration pods.",
+      "decisions": "Start with the job to be done.\nCreate a durable shared space.\nConnect structure with familiarity.\nReveal collaboration patterns.",
+      "contribution": "Explored the end-to-end organization sensemaking experience and how generated context could remain inspectable and useful.",
+      "result": "A connected experience model for moving from a broad question to an editable working map."
+    }
+  ]
+}
