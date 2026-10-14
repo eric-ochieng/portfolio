@@ -418,7 +418,7 @@ async function initialize() {
   try {
     let response = await fetch('api/content', { headers: { Accept: 'application/json' } });
     if (!response.ok && window.location.hostname.endsWith('github.io')) {
-      response = await fetch('data/content.json', { headers: { Accept: 'application/json' } });
+      response = await fetch('data/content.json?v=20261014-ex-microsoft', { cache: 'no-store', headers: { Accept: 'application/json' } });
     }
     if (!response.ok) throw new Error(`Portfolio content request failed with status ${response.status}.`);
     mergePortfolioContent(await response.json());
